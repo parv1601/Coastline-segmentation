@@ -24,7 +24,7 @@ def fetch_all_features():
             "returnGeometry": "true",
             "outSR": "4326",
 
-            # ✅ correct pagination for Maharashtra
+            # correct pagination for Maharashtra
             "orderByFields": "OBJECTID ASC",
 
             # pagination
