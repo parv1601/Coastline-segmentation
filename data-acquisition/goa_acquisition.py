@@ -42,7 +42,7 @@ df = pd.read_csv(csv_file)
 # --------------------------
 # 3) SETTINGS
 # --------------------------
-TIME_INTERVAL = ("2025-01-01", "2025-12-31")
+TIME_INTERVAL = ("2025-05-01", "2025-05-31")
 RESOLUTION_S2 = 10
 RESOLUTION_S1 = 20
 
